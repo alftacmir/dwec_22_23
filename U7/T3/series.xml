@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <serie>
+        <titulo>The last of us</titulo>
+        <cadena>HBO</cadena>
+        <director>Greg Spence</director>
+        <anno>2023</anno>
+        <terminada>no</terminada>
+    </serie>
+    <serie>
+        <titulo>Breaking Bad</titulo>
+        <cadena>Netflix</cadena>
+        <director>Vince Gilligan</director>
+        <anno>2008</anno>
+        <terminada>si</terminada>
+    </serie>
+</series>
