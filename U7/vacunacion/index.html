@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vacunaciones</title>
+    <script defer src="app.js"></script>
+</head>
+<body>
+    <label>CC.AA.: </label>
+    <select title="select" name="comunidades" id="select" style="width: 100px;"></select>
+    <input id="dosisEntregadas" type="number">
+    <input id="dosisAdministradas" type="number">
+    <input id="dosisPautaCompletada" type="number">
+    <input id="porcentajeEntradas" type="number">
+    <input id="porcentajePoblacionAdministradas" type="number">
+    <input id="porcentajePoblacionCompletas" type="number">
+    <button id="modificar">modificar datos</button>
+    <hr>
+    <div id="resultado"></div>
+    <hr>
+    <button id="xml">Cargar datos vacunación (XMLHttpRequest)</button>
+    <button id="fetch">Cargar datos vacunación (Fetch)</button>
+    <div id="tabla"></div>
+
+
+</body>
+</html>

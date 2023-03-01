@@ -1,0 +1,2674 @@
+[
+  {
+    "ccaa": "Andalucía",
+    "dosisAdministradas": 17345965.5,
+    "dosisEntregadas": 16974470,
+    "dosisEntregadasModerna": 2716140,
+    "dosisEntregadasPfizer": 11421630,
+    "dosisEntregadasAstrazeneca": 1537200,
+    "dosisEntregadasJanssen": 333500,
+    "dosisPrimeraDosis": 7489790,
+    "dosisPautaCompletada": 7354043,
+    "porcentajeEntregadas": 1,
+    "porcentajePoblacionAdministradas": 2.049282046913837,
+    "porcentajePoblacionPrimeraDosis": 0.8848566072701337,
+    "porcentajePoblacionCompletas": 0.868819224397303,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 7047512,
+          "personasINE": 7549680.891117,
+          "porcentaje": 0.9334847527518871
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 724129,
+            "personasINE": 781159.305029,
+            "porcentaje": 0.8802672809723785
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 814259,
+            "personasINE": 925013.365373,
+            "porcentaje": 0.9283518606864101
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 970039,
+            "personasINE": 1079039.109639,
+            "porcentaje": 0.9283518606864101
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 1278442,
+            "personasINE": 1377109.320441,
+            "porcentaje": 0.9283518606864101
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 1230245,
+            "personasINE": 1305712.3059709999,
+            "porcentaje": 0.9422021944452165
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 937960,
+            "personasINE": 988889.8953819999,
+            "porcentaje": 0.9484979110214024
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 656770,
+            "personasINE": 672297.117667,
+            "porcentaje": 0.9769043816209088
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 435668,
+            "personasINE": 435668,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 7019434,
+          "personasINE": 7549680.891117,
+          "porcentaje": 0.9297656551628704
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 761023,
+            "personasINE": 781159.305029,
+            "porcentaje": 0.8593702856168515
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 794929,
+            "personasINE": 925013.365373,
+            "porcentaje": 0.9208898532426515
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 954114,
+            "personasINE": 1079039.109639,
+            "porcentaje": 0.9208898532426515
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 1268166,
+            "personasINE": 1377109.320441,
+            "porcentaje": 0.9208898532426515
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 1222997,
+            "personasINE": 1305712.3059709999,
+            "porcentaje": 0.9366512013460054
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 934179,
+            "personasINE": 988889.8953819999,
+            "porcentaje": 0.9446744317668798
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 653116,
+            "personasINE": 672297.117667,
+            "porcentaje": 0.9714692846913249
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 430910,
+            "personasINE": 430910,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Aragón",
+    "dosisAdministradas": 2688866.5,
+    "dosisEntregadas": 2743514,
+    "dosisEntregadasModerna": 423230,
+    "dosisEntregadasPfizer": 1860819,
+    "dosisEntregadasAstrazeneca": 252500,
+    "dosisEntregadasJanssen": 58035,
+    "dosisPrimeraDosis": 1152357,
+    "dosisPautaCompletada": 1132336,
+    "porcentajeEntregadas": 0.98008120242871,
+    "porcentajePoblacionAdministradas": 2.022630287101387,
+    "porcentajePoblacionPrimeraDosis": 0.8668307518254599,
+    "porcentajePoblacionCompletas": 0.8517704723441034,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 1098847,
+          "personasINE": 1176072.697243,
+          "porcentaje": 0.9343359492792956
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 95910,
+            "personasINE": 107328.396078,
+            "porcentaje": 0.8533129777092254
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 111238,
+            "personasINE": 130360.140893,
+            "porcentaje": 0.9321586235368132
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 132419,
+            "personasINE": 149477.782203,
+            "porcentaje": 0.9321586235368132
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 192658,
+            "personasINE": 206679.416073,
+            "porcentaje": 0.9321586235368132
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 188738,
+            "personasINE": 200201.47705699998,
+            "porcentaje": 0.9427402972969267
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 156168,
+            "personasINE": 163894.311104,
+            "porcentaje": 0.9528579665031984
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 119941,
+            "personasINE": 121077.515969,
+            "porcentaje": 0.9906133194102612
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 101775,
+            "personasINE": 101775,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 1092754,
+          "personasINE": 1176072.697243,
+          "porcentaje": 0.9291551470939516
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 98469,
+            "personasINE": 107328.396078,
+            "porcentaje": 0.8337441126978423
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 108687,
+            "personasINE": 130360.140893,
+            "porcentaje": 0.9256074147820829
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 130318,
+            "personasINE": 149477.782203,
+            "porcentaje": 0.9256074147820829
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 191304,
+            "personasINE": 206679.416073,
+            "porcentaje": 0.9256074147820829
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 188559,
+            "personasINE": 200201.47705699998,
+            "porcentaje": 0.9418461979994023
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 155587,
+            "personasINE": 163894.311104,
+            "porcentaje": 0.949312999041629
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 119285,
+            "personasINE": 121077.515969,
+            "porcentaje": 0.9851953027392886
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 100545,
+            "personasINE": 100545,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Asturias",
+    "dosisAdministradas": 2303602.5,
+    "dosisEntregadas": 2453297,
+    "dosisEntregadasModerna": 507370,
+    "dosisEntregadasPfizer": 1569227,
+    "dosisEntregadasAstrazeneca": 219760,
+    "dosisEntregadasJanssen": 42940,
+    "dosisPrimeraDosis": 929877,
+    "dosisPautaCompletada": 920754,
+    "porcentajeEntregadas": 0.938982316450067,
+    "porcentajePoblacionAdministradas": 2.2611294445142445,
+    "porcentajePoblacionPrimeraDosis": 0.9127322376480196,
+    "porcentajePoblacionCompletas": 0.9037774444828345,
+    "fechaUltRegistro": 1664236800000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 886357,
+          "personasINE": 926948.791315,
+          "porcentaje": 0.9562092407959072
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 63195,
+            "personasINE": 66307.288117,
+            "porcentaje": 0.8786612009323839
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 69060,
+            "personasINE": 78596.847029,
+            "porcentaje": 0.9355148317508005
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 93294,
+            "personasINE": 103246.433387,
+            "porcentaje": 0.9355148317508005
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 152738,
+            "personasINE": 163266.251711,
+            "porcentaje": 0.9355148317508005
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 154576,
+            "personasINE": 162237.120801,
+            "porcentaje": 0.9527782497422576
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 149286,
+            "personasINE": 153922.069993,
+            "porcentaje": 0.9698804077075441
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 114873,
+            "personasINE": 114983.820426,
+            "porcentaje": 0.9990362085240391
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 89335,
+            "personasINE": 89335,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 886943,
+          "personasINE": 926948.791315,
+          "porcentaje": 0.956841422428259
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 67350,
+            "personasINE": 66307.288117,
+            "porcentaje": 0.8619556961999161
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 67747,
+            "personasINE": 78596.847029,
+            "porcentaje": 0.9345287124621371
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 92168,
+            "personasINE": 103246.433387,
+            "porcentaje": 0.9345287124621371
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 152577,
+            "personasINE": 163266.251711,
+            "porcentaje": 0.9345287124621371
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 154855,
+            "personasINE": 162237.120801,
+            "porcentaje": 0.9544979548172892
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 149095,
+            "personasINE": 153922.069993,
+            "porcentaje": 0.9686395200297168
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 114540,
+            "personasINE": 114983.820426,
+            "porcentaje": 0.9961401488978562
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 88611,
+            "personasINE": 88611,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Baleares",
+    "dosisAdministradas": 2061099.5,
+    "dosisEntregadas": 2119642,
+    "dosisEntregadasModerna": 433690,
+    "dosisEntregadasPfizer": 1284972,
+    "dosisEntregadasAstrazeneca": 225400,
+    "dosisEntregadasJanssen": 50040,
+    "dosisPrimeraDosis": 929415,
+    "dosisPautaCompletada": 914426,
+    "porcentajeEntregadas": 0.9723809492357671,
+    "porcentajePoblacionAdministradas": 1.7593033290284692,
+    "porcentajePoblacionPrimeraDosis": 0.7933255544184038,
+    "porcentajePoblacionCompletas": 0.7805313163921427,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 898083,
+          "personasINE": 1089409.049371,
+          "porcentaje": 0.8243762988002833
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 84972,
+            "personasINE": 100842.64528799999,
+            "porcentaje": 0.7736365269186672
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 105209,
+            "personasINE": 135992.80326,
+            "porcentaje": 0.8061098021722723
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 135799,
+            "personasINE": 179484.35480799997,
+            "porcentaje": 0.8061098021722723
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 174124,
+            "personasINE": 216005.312838,
+            "porcentaje": 0.8061098021722723
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 153836,
+            "personasINE": 182382.97809699998,
+            "porcentaje": 0.8434778377079831
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 112277,
+            "personasINE": 130750.171086,
+            "porcentaje": 0.8587139815377419
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 79981,
+            "personasINE": 89895.443941,
+            "porcentaje": 0.8897113857348874
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 51885,
+            "personasINE": 54055.340053,
+            "porcentaje": 0.9598496642353552
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 892862,
+          "personasINE": 1089409.049371,
+          "porcentaje": 0.8195837922546341
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 86061,
+            "personasINE": 100842.64528799999,
+            "porcentaje": 0.7584077798794543
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 103138,
+            "personasINE": 135992.80326,
+            "porcentaje": 0.8010728890255296
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 133821,
+            "personasINE": 179484.35480799997,
+            "porcentaje": 0.8010728890255296
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 173036,
+            "personasINE": 216005.312838,
+            "porcentaje": 0.8010728890255296
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 153231,
+            "personasINE": 182382.97809699998,
+            "porcentaje": 0.8401606421762914
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 112227,
+            "personasINE": 130750.171086,
+            "porcentaje": 0.8583315728603023
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 79894,
+            "personasINE": 89895.443941,
+            "porcentaje": 0.8887435947525424
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 51454,
+            "personasINE": 54055.340053,
+            "porcentaje": 0.9518763539282253
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Canarias",
+    "dosisAdministradas": 4199799,
+    "dosisEntregadas": 4450128,
+    "dosisEntregadasModerna": 796470,
+    "dosisEntregadasPfizer": 2834748,
+    "dosisEntregadasAstrazeneca": 455710,
+    "dosisEntregadasJanssen": 132660,
+    "dosisPrimeraDosis": 1824946,
+    "dosisPautaCompletada": 1769849,
+    "porcentajeEntregadas": 0.9437479101724714,
+    "porcentajePoblacionAdministradas": 1.930097263174923,
+    "porcentajePoblacionPrimeraDosis": 0.8386885372471452,
+    "porcentajePoblacionCompletas": 0.8133676661985191,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 1751304,
+          "personasINE": 2048188.859992,
+          "porcentaje": 0.8550500562759825
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 174117,
+            "personasINE": 183329.88130700003,
+            "porcentaje": 0.7984028618484917
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 203275,
+            "personasINE": 254602.043296,
+            "porcentaje": 0.8366043193189573
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 240625,
+            "personasINE": 306264.118035,
+            "porcentaje": 0.8366043193189573
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 325677,
+            "personasINE": 389284.387469,
+            "porcentaje": 0.8366043193189573
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 326399,
+            "personasINE": 377066.769377,
+            "porcentaje": 0.8656265322433089
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 229795,
+            "personasINE": 261207.65156700002,
+            "porcentaje": 0.8797406914439386
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 156417,
+            "personasINE": 173257.521568,
+            "porcentaje": 0.902800632171167
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 94999,
+            "personasINE": 103176.48737299998,
+            "porcentaje": 0.920742723645582
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 1720375,
+          "personasINE": 2048188.859992,
+          "porcentaje": 0.8399493980290077
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 171557,
+            "personasINE": 183329.88130700003,
+            "porcentaje": 0.7576019324234167
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 192887,
+            "personasINE": 254602.04329600002,
+            "porcentaje": 0.8294912675523475
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 234588,
+            "personasINE": 306264.118035,
+            "porcentaje": 0.8294912675523475
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 322908,
+            "personasINE": 389284.387469,
+            "porcentaje": 0.8294912675523475
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 325290,
+            "personasINE": 377066.769377,
+            "porcentaje": 0.8626854085748606
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 226679,
+            "personasINE": 261207.65156700002,
+            "porcentaje": 0.8678114850010686
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 152906,
+            "personasINE": 173257.521568,
+            "porcentaje": 0.882535999685229
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 93560,
+            "personasINE": 103176.48737299998,
+            "porcentaje": 0.9067957475792445
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Cantabria",
+    "dosisAdministradas": 1270078,
+    "dosisEntregadas": 1297220,
+    "dosisEntregadasModerna": 175400,
+    "dosisEntregadasPfizer": 919185,
+    "dosisEntregadasAstrazeneca": 120490,
+    "dosisEntregadasJanssen": 22145,
+    "dosisPrimeraDosis": 520251,
+    "dosisPautaCompletada": 517331,
+    "porcentajeEntregadas": 0.9790767949923683,
+    "porcentajePoblacionAdministradas": 2.1788764893078634,
+    "porcentajePoblacionPrimeraDosis": 0.892514217582625,
+    "porcentajePoblacionCompletas": 0.8875048249714791,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 495235,
+          "personasINE": 529709.283776,
+          "porcentaje": 0.9349184829643683
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 43433,
+            "personasINE": 46273.92155200001,
+            "porcentaje": 0.8533129232840305
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 43671,
+            "personasINE": 51178.177206,
+            "porcentaje": 0.9225295815831268
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 57074,
+            "personasINE": 64462.94996,
+            "porcentaje": 0.9225295815831268
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 89615,
+            "personasINE": 97140.516455,
+            "porcentaje": 0.9225295815831268
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 85280,
+            "personasINE": 91509.355006,
+            "porcentaje": 0.9319265772817265
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 77317,
+            "personasINE": 81007.113277,
+            "porcentaje": 0.9544470463429325
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 56235,
+            "personasINE": 56861.663432,
+            "porcentaje": 0.9889791575874417
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 42610,
+            "personasINE": 42610,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 496662,
+          "personasINE": 529709.283776,
+          "porcentaje": 0.937612413472491
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 46279,
+            "personasINE": 46273.92155200001,
+            "porcentaje": 0.8484866474476367
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 43424,
+            "personasINE": 51178.177206,
+            "porcentaje": 0.91994569579417
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 56836,
+            "personasINE": 64462.94996,
+            "porcentaje": 0.91994569579417
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 89364,
+            "personasINE": 97140.516455,
+            "porcentaje": 0.91994569579417
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 85155,
+            "personasINE": 91509.355006,
+            "porcentaje": 0.9305605967216865
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 77186,
+            "personasINE": 81007.113277,
+            "porcentaje": 0.9528299044068651
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 56119,
+            "personasINE": 56861.663432,
+            "porcentaje": 0.9869391187810018
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 42299,
+            "personasINE": 42299,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Castilla y Leon",
+    "dosisAdministradas": 5358041,
+    "dosisEntregadas": 5623830,
+    "dosisEntregadasModerna": 691850,
+    "dosisEntregadasPfizer": 4084695,
+    "dosisEntregadasAstrazeneca": 472170,
+    "dosisEntregadasJanssen": 94635,
+    "dosisPrimeraDosis": 2152901,
+    "dosisPautaCompletada": 2127808,
+    "porcentajeEntregadas": 0.9527387918909356,
+    "porcentajePoblacionAdministradas": 2.2372544696728656,
+    "porcentajePoblacionPrimeraDosis": 0.8989456006426942,
+    "porcentajePoblacionCompletas": 0.8884679976516942,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 2050152,
+          "personasINE": 2168005.04715,
+          "porcentaje": 0.9456398649509943
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 156808,
+            "personasINE": 169212.856234,
+            "porcentaje": 0.8611921034827598
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 181748,
+            "personasINE": 211042.34382200002,
+            "porcentaje": 0.9219289339753702
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 219514,
+            "personasINE": 249880.80233,
+            "porcentaje": 0.9219289339753702
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 326602,
+            "personasINE": 354259.40977,
+            "porcentaje": 0.9219289339753702
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 358127,
+            "personasINE": 380426.31163999997,
+            "porcentaje": 0.9413833613561883
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 324806,
+            "personasINE": 335550.421539,
+            "porcentaje": 0.9679797107995848
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 252405,
+            "personasINE": 252405,
+            "porcentaje": 1
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 230142,
+            "personasINE": 230142,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 2089238,
+          "personasINE": 2168005.04715,
+          "porcentaje": 0.9636684207661117
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 198246,
+            "personasINE": 169212.856234,
+            "porcentaje": 0.8845333908793532
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 186674,
+            "personasINE": 211042.34382200002,
+            "porcentaje": 0.9175705458636687
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 217272,
+            "personasINE": 249880.80233,
+            "porcentaje": 0.9175705458636687
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 325058,
+            "personasINE": 354259.40977,
+            "porcentaje": 0.9175705458636687
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 356867,
+            "personasINE": 380426.31163999997,
+            "porcentaje": 0.9380712876077449
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 325075,
+            "personasINE": 335550.421539,
+            "porcentaje": 0.9687813786942823
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 251364,
+            "personasINE": 251364,
+            "porcentaje": 1
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 228682,
+            "personasINE": 228682,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Castilla La Mancha",
+    "dosisAdministradas": 4044428.5,
+    "dosisEntregadas": 4207914,
+    "dosisEntregadasModerna": 712830,
+    "dosisEntregadasPfizer": 2762769,
+    "dosisEntregadasAstrazeneca": 381270,
+    "dosisEntregadasJanssen": 93045,
+    "dosisPrimeraDosis": 1769298,
+    "dosisPautaCompletada": 1718991,
+    "porcentajeEntregadas": 0.9611480890531509,
+    "porcentajePoblacionAdministradas": 1.9775019423328823,
+    "porcentajePoblacionPrimeraDosis": 0.8650889072623448,
+    "porcentajePoblacionCompletas": 0.8404915654591851,
+    "fechaUltRegistro": 1664323200000
+  },
+  {
+    "ccaa": "Cataluña",
+    "dosisAdministradas": 14410872.5,
+    "dosisEntregadas": 14394324,
+    "dosisEntregadasModerna": 3139230,
+    "dosisEntregadasPfizer": 8911334,
+    "dosisEntregadasAstrazeneca": 1484370,
+    "dosisEntregadasJanssen": 352320,
+    "dosisPrimeraDosis": 6502940,
+    "dosisPautaCompletada": 6369201,
+    "porcentajeEntregadas": 1,
+    "porcentajePoblacionAdministradas": 1.8521832010599861,
+    "porcentajePoblacionPrimeraDosis": 0.8358020116756307,
+    "porcentajePoblacionCompletas": 0.8186129671450819,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 6261798,
+          "personasINE": 6811841.389788,
+          "porcentaje": 0.9192518794385612
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 612207,
+            "personasINE": 682394.1153589999,
+            "porcentaje": 0.8411995863915083
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 703738,
+            "personasINE": 836588.618664,
+            "porcentaje": 0.9282803163110982
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 836617,
+            "personasINE": 946045.91098,
+            "porcentaje": 0.9282803163110982
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 1168631,
+            "personasINE": 1258920.370782,
+            "porcentaje": 0.9282803163110982
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 1046010,
+            "personasINE": 1116371.108481,
+            "porcentaje": 0.93697337028299
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 810679,
+            "personasINE": 867293.9350060001,
+            "porcentaje": 0.9347223210945106
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 622449,
+            "personasINE": 649401.7381780001,
+            "porcentaje": 0.9584960486037191
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 461467,
+            "personasINE": 461467,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 6195456,
+          "personasINE": 6811841.389788,
+          "porcentaje": 0.9095126626535879
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 613758,
+            "personasINE": 682394.1153589999,
+            "porcentaje": 0.8200792895026782
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 686069,
+            "personasINE": 836588.618664,
+            "porcentaje": 0.9191510653538983
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 820855,
+            "personasINE": 946045.91098,
+            "porcentaje": 0.9191510653538983
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 1157138,
+            "personasINE": 1258920.370782,
+            "porcentaje": 0.9191510653538983
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 1040450,
+            "personasINE": 1116371.108481,
+            "porcentaje": 0.931992947592219
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 802643,
+            "personasINE": 867293.9350060001,
+            "porcentaje": 0.9254567195773682
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 618671,
+            "personasINE": 649401.7381780001,
+            "porcentaje": 0.9526783863187369
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 455872,
+            "personasINE": 455872,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "C. Valenciana",
+    "dosisAdministradas": 10223978,
+    "dosisEntregadas": 10437672,
+    "dosisEntregadasModerna": 2120240,
+    "dosisEntregadasPfizer": 6708172,
+    "dosisEntregadasAstrazeneca": 857060,
+    "dosisEntregadasJanssen": 208530,
+    "dosisPrimeraDosis": 4454726,
+    "dosisPautaCompletada": 4394597,
+    "porcentajeEntregadas": 0.9795266607343094,
+    "porcentajePoblacionAdministradas": 2.021606559795213,
+    "porcentajePoblacionPrimeraDosis": 0.880841420403124,
+    "porcentajePoblacionCompletas": 0.8689519991979995,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 4199018,
+          "personasINE": 4528081.85246,
+          "porcentaje": 0.927328201392555
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 408850,
+            "personasINE": 439961.920026,
+            "porcentaje": 0.8675227682670313
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 450414,
+            "personasINE": 519195.59517700004,
+            "porcentaje": 0.920450304248726
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 532165,
+            "personasINE": 601751.3874979999,
+            "porcentaje": 0.920450304248726
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 768798,
+            "personasINE": 835241.181899,
+            "porcentaje": 0.920450304248726
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 724426,
+            "personasINE": 776681.2729239999,
+            "porcentaje": 0.932719798010228
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 577076,
+            "personasINE": 613365.9885849999,
+            "porcentaje": 0.9408346904452286
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 438031,
+            "personasINE": 449929.334456,
+            "porcentaje": 0.9735551040023073
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 299258,
+            "personasINE": 299258,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 4223649,
+          "personasINE": 4528081.85246,
+          "porcentaje": 0.9327678115415231
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 430498,
+            "personasINE": 439961.920026,
+            "porcentaje": 0.8617715638505492
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 447428,
+            "personasINE": 519195.59517700004,
+            "porcentaje": 0.9219540615193438
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 530731,
+            "personasINE": 601751.3874979999,
+            "porcentaje": 0.9219540615193438
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 770054,
+            "personasINE": 835241.181899,
+            "porcentaje": 0.9219540615193438
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 733815,
+            "personasINE": 776681.2729239999,
+            "porcentaje": 0.9448084118693635
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 579774,
+            "personasINE": 613365.9885849999,
+            "porcentaje": 0.9452333692931121
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 435755,
+            "personasINE": 449929.334456,
+            "porcentaje": 0.9684965318539679
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 295594,
+            "personasINE": 295594,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Extremadura",
+    "dosisAdministradas": 2356949,
+    "dosisEntregadas": 2318971,
+    "dosisEntregadasModerna": 303980,
+    "dosisEntregadasPfizer": 1639481,
+    "dosisEntregadasAstrazeneca": 182380,
+    "dosisEntregadasJanssen": 37450,
+    "dosisPrimeraDosis": 970673,
+    "dosisPautaCompletada": 953469,
+    "porcentajeEntregadas": 1,
+    "porcentajePoblacionAdministradas": 2.2152046970498698,
+    "porcentajePoblacionPrimeraDosis": 0.9122978006310227,
+    "porcentajePoblacionCompletas": 0.8961284301405938,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 910438,
+          "personasINE": 948307.092966,
+          "porcentaje": 0.9600666353263714
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 81521,
+            "personasINE": 85670.747881,
+            "porcentaje": 0.8649008223613115
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 95842,
+            "personasINE": 110812.70536699999,
+            "porcentaje": 0.9473671722113062
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 115005,
+            "personasINE": 126932.449855,
+            "porcentaje": 0.9473671722113062
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 147471,
+            "personasINE": 155664.03853299998,
+            "porcentaje": 0.9473671722113062
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 162416,
+            "personasINE": 167627.94192100002,
+            "porcentaje": 0.968907678151556
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 133525,
+            "personasINE": 135332.435665,
+            "porcentaje": 0.9866444754642997
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 96192,
+            "personasINE": 96192,
+            "porcentaje": 1
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 78466,
+            "personasINE": 78466,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 908031,
+          "personasINE": 948307.092966,
+          "porcentaje": 0.9575284280116166
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 86651,
+            "personasINE": 85670.747881,
+            "porcentaje": 0.8451918910364528
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 93658,
+            "personasINE": 110812.70536699999,
+            "porcentaje": 0.9396839589831819
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 113417,
+            "personasINE": 126932.449855,
+            "porcentaje": 0.9396839589831819
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 146275,
+            "personasINE": 155664.03853299998,
+            "porcentaje": 0.9396839589831819
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 161628,
+            "personasINE": 167627.94192100002,
+            "porcentaje": 0.9642067912291873
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 132913,
+            "personasINE": 135332.435665,
+            "porcentaje": 0.982122277980801
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 95791,
+            "personasINE": 95791,
+            "porcentaje": 1
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 77698,
+            "personasINE": 77698,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Galicia",
+    "dosisAdministradas": 6180832,
+    "dosisEntregadas": 6057174,
+    "dosisEntregadasModerna": 969980,
+    "dosisEntregadasPfizer": 4138999,
+    "dosisEntregadasAstrazeneca": 571870,
+    "dosisEntregadasJanssen": 122525,
+    "dosisPrimeraDosis": 2483258,
+    "dosisPautaCompletada": 2459083,
+    "porcentajeEntregadas": 1,
+    "porcentajePoblacionAdministradas": 2.287655834828314,
+    "porcentajePoblacionPrimeraDosis": 0.9191059800823075,
+    "porcentajePoblacionCompletas": 0.9101583044608096,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 2343275,
+          "personasINE": 2457737.966392,
+          "porcentaje": 0.9534275142601822
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 177442,
+            "personasINE": 186041.44752400002,
+            "porcentaje": 0.8941361617956277
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 205281,
+            "personasINE": 229585.838009,
+            "porcentaje": 0.9389279849841425
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 269429,
+            "personasINE": 296413.03551099997,
+            "porcentaje": 0.9389279849841425
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 412916,
+            "personasINE": 439773.87680800003,
+            "porcentaje": 0.9389279849841425
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 394088,
+            "personasINE": 413246.035485,
+            "porcentaje": 0.9536401227358045
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 348440,
+            "personasINE": 360233.91026300006,
+            "porcentaje": 0.9672604107303792
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 292479,
+            "personasINE": 295186.745029,
+            "porcentaje": 0.990827010105979
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 243200,
+            "personasINE": 243200,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 2349770,
+          "personasINE": 2457737.966392,
+          "porcentaje": 0.9560701881696123
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 193252,
+            "personasINE": 186041.44752400002,
+            "porcentaje": 0.8829290245335326
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 202708,
+            "personasINE": 229585.838009,
+            "porcentaje": 0.9356876833765458
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 267561,
+            "personasINE": 296413.03551099997,
+            "porcentaje": 0.9356876833765458
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 411491,
+            "personasINE": 439773.87680800003,
+            "porcentaje": 0.9356876833765458
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 393067,
+            "personasINE": 413246.035485,
+            "porcentaje": 0.9511694396261607
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 348245,
+            "personasINE": 360233.91026300006,
+            "porcentaje": 0.9667190957834947
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 291605,
+            "personasINE": 295186.745029,
+            "porcentaje": 0.987866172552402
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 241841,
+            "personasINE": 241841,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "La Rioja",
+    "dosisAdministradas": 659498,
+    "dosisEntregadas": 688047,
+    "dosisEntregadasModerna": 108710,
+    "dosisEntregadasPfizer": 463727,
+    "dosisEntregadasAstrazeneca": 53270,
+    "dosisEntregadasJanssen": 15200,
+    "dosisPrimeraDosis": 284790,
+    "dosisPautaCompletada": 287017,
+    "porcentajeEntregadas": 0.958507195002667,
+    "porcentajePoblacionAdministradas": 2.0614852741674325,
+    "porcentajePoblacionPrimeraDosis": 0.8902079933982258,
+    "porcentajePoblacionCompletas": 0.8971692392330439,
+    "fechaUltRegistro": 1663718400000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 269629,
+          "personasINE": 281978.889694,
+          "porcentaje": 0.9562027862887114
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 25600,
+            "personasINE": 26486.368983,
+            "porcentaje": 0.8564907127049605
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 25928,
+            "personasINE": 30272.365614000002,
+            "porcentaje": 0.9491937304833787
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 32658,
+            "personasINE": 35830.396471,
+            "porcentaje": 0.9491937304833787
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 48578,
+            "personasINE": 51178.172,
+            "porcentaje": 0.9491937304833787
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 46001,
+            "personasINE": 47729.525839,
+            "porcentaje": 0.9637849777760077
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 38561,
+            "personasINE": 39607.365297,
+            "porcentaje": 0.973581547544157
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 28798,
+            "personasINE": 28798,
+            "porcentaje": 1
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 23505,
+            "personasINE": 23505,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 274440,
+          "personasINE": 281978.889694,
+          "porcentaje": 0.9732643471921564
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 25759,
+            "personasINE": 26486.368983,
+            "porcentaje": 0.8444995784596696
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 25565,
+            "personasINE": 30272.365614000002,
+            "porcentaje": 0.9511672280909135
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 32499,
+            "personasINE": 35830.396471,
+            "porcentaje": 0.9511672280909135
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 48679,
+            "personasINE": 51178.172,
+            "porcentaje": 0.9511672280909135
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 46343,
+            "personasINE": 47729.525839,
+            "porcentaje": 0.9709503537982549
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 39736,
+            "personasINE": 39607.365297,
+            "porcentaje": 1.0032477470297614
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 30724,
+            "personasINE": 30724,
+            "porcentaje": 1
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 25135,
+            "personasINE": 25135,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Madrid",
+    "dosisAdministradas": 13493663,
+    "dosisEntregadas": 13677055,
+    "dosisEntregadasModerna": 2168580,
+    "dosisEntregadasPfizer": 9317025,
+    "dosisEntregadasAstrazeneca": 1182300,
+    "dosisEntregadasJanssen": 253150,
+    "dosisPrimeraDosis": 5779341,
+    "dosisPautaCompletada": 5736895,
+    "porcentajeEntregadas": 0.9865912654442056,
+    "porcentajePoblacionAdministradas": 1.9902486589748976,
+    "porcentajePoblacionPrimeraDosis": 0.8524242583358309,
+    "porcentajePoblacionCompletas": 0.8461636829398952,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 5530354,
+          "personasINE": 6006507.000891998,
+          "porcentaje": 0.9207271379486801
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 510066,
+            "personasINE": 580280.96067,
+            "porcentaje": 0.8668517183224466
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 642695,
+            "personasINE": 741412.846529,
+            "porcentaje": 0.9234180579892869
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 785027,
+            "personasINE": 877451.3972690001,
+            "porcentaje": 0.9234180579892869
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 1055984,
+            "personasINE": 1143560.049388,
+            "porcentaje": 0.9234180579892869
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 952112,
+            "personasINE": 1010945.855701,
+            "porcentaje": 0.9418031585280064
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 695370,
+            "personasINE": 738133.054841,
+            "porcentaje": 0.9420659262438646
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 513432,
+            "personasINE": 539781.611107,
+            "porcentaje": 0.9511846817957331
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 375668,
+            "personasINE": 375668,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 5543040,
+          "personasINE": 6006507.000891998,
+          "porcentaje": 0.9228391807712584
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 540252,
+            "personasINE": 580280.96067,
+            "porcentaje": 0.8528244458673109
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 632295,
+            "personasINE": 741412.846529,
+            "porcentaje": 0.9222113001974783
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 776014,
+            "personasINE": 877451.3972690001,
+            "porcentaje": 0.9222113001974783
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 1054604,
+            "personasINE": 1143560.049388,
+            "porcentaje": 0.9222113001974783
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 963395,
+            "personasINE": 1010945.855701,
+            "porcentaje": 0.9529639936373964
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 692152,
+            "personasINE": 738133.054841,
+            "porcentaje": 0.9377062786452441
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 511713,
+            "personasINE": 539781.611107,
+            "porcentaje": 0.9480000605255223
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 372615,
+            "personasINE": 374941.225387,
+            "porcentaje": 0.9937957598965038
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Murcia",
+    "dosisAdministradas": 2852721,
+    "dosisEntregadas": 2935275,
+    "dosisEntregadasModerna": 625500,
+    "dosisEntregadasPfizer": 1784465,
+    "dosisEntregadasAstrazeneca": 253010,
+    "dosisEntregadasJanssen": 68300,
+    "dosisPrimeraDosis": 1301883,
+    "dosisPautaCompletada": 1283075,
+    "porcentajeEntregadas": 0.9718752076040575,
+    "porcentajePoblacionAdministradas": 1.8876553266135143,
+    "porcentajePoblacionPrimeraDosis": 0.8614604721518795,
+    "porcentajePoblacionCompletas": 0.8490151536707007,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 1233303,
+          "personasINE": 1329419.096602,
+          "porcentaje": 0.927700680058175
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 132836,
+            "personasINE": 146353.389553,
+            "porcentaje": 0.8554023369358528
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 150793,
+            "personasINE": 176283.128405,
+            "porcentaje": 0.9409382977767388
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 175389,
+            "personasINE": 194920.713026,
+            "porcentaje": 0.9409382977767388
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 237238,
+            "personasINE": 252129.17846000002,
+            "porcentaje": 0.9409382977767388
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 210177,
+            "personasINE": 222439.266252,
+            "porcentaje": 0.9448736436753565
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 149980,
+            "personasINE": 158822.277498,
+            "porcentaje": 0.9443259620923685
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 103970,
+            "personasINE": 106939.34176899999,
+            "porcentaje": 0.9722334014789985
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 72920,
+            "personasINE": 72920,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 1238945,
+          "personasINE": 1329419.096602,
+          "porcentaje": 0.9319446389530193
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 134212,
+            "personasINE": 146353.389553,
+            "porcentaje": 0.8277139243000945
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 145912,
+            "personasINE": 176283.128405,
+            "porcentaje": 0.9365952859655384
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 172206,
+            "personasINE": 194920.713026,
+            "porcentaje": 0.9365952859655384
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 236143,
+            "personasINE": 252129.17846000002,
+            "porcentaje": 0.9365952859655384
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 212097,
+            "personasINE": 222439.266252,
+            "porcentaje": 0.9535052132374717
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 154056,
+            "personasINE": 158822.277498,
+            "porcentaje": 0.9699898680897582
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 108345,
+            "personasINE": 108345,
+            "porcentaje": 1
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 75974,
+            "personasINE": 75974,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Navarra",
+    "dosisAdministradas": 1337155,
+    "dosisEntregadas": 1406169,
+    "dosisEntregadasModerna": 273760,
+    "dosisEntregadasPfizer": 895749,
+    "dosisEntregadasAstrazeneca": 135150,
+    "dosisEntregadasJanssen": 23710,
+    "dosisPrimeraDosis": 568981,
+    "dosisPautaCompletada": 563709,
+    "porcentajeEntregadas": 0.950920550801504,
+    "porcentajePoblacionAdministradas": 2.0223246626950817,
+    "porcentajePoblacionPrimeraDosis": 0.8605317326001176,
+    "porcentajePoblacionCompletas": 0.8525583146928979,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 540411,
+          "personasINE": 583256.2634330001,
+          "porcentaje": 0.9265412716173569
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 53426,
+            "personasINE": 58319.817505,
+            "porcentaje": 0.8621367802190038
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 60192,
+            "personasINE": 69817.227824,
+            "porcentaje": 0.9254767951852748
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 66187,
+            "personasINE": 74351.342645,
+            "porcentaje": 0.9254767951852748
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 96712,
+            "personasINE": 104499.648725,
+            "porcentaje": 0.9254767951852748
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 92604,
+            "personasINE": 98998.321486,
+            "porcentaje": 0.9354097989741749
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 72670,
+            "personasINE": 77499.26384,
+            "porcentaje": 0.9376863262860123
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 56022,
+            "personasINE": 57910.263889,
+            "porcentaje": 0.9673932777681803
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 42598,
+            "personasINE": 42598,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 541826,
+          "personasINE": 583256.2634330001,
+          "porcentaje": 0.9289673064303762
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 56206,
+            "personasINE": 58319.817505,
+            "porcentaje": 0.8523397713528786
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 59508,
+            "personasINE": 69817.227824,
+            "porcentaje": 0.9249121999859622
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 65849,
+            "personasINE": 74351.342645,
+            "porcentaje": 0.9249121999859622
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 96653,
+            "personasINE": 104499.648725,
+            "porcentaje": 0.9249121999859622
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 92870,
+            "personasINE": 98998.321486,
+            "porcentaje": 0.9380967132168332
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 72499,
+            "personasINE": 77499.26384,
+            "porcentaje": 0.9354798537141821
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 55915,
+            "personasINE": 57910.263889,
+            "porcentaje": 0.9655455914891972
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 42326,
+            "personasINE": 42326,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "País Vasco",
+    "dosisAdministradas": 4462662,
+    "dosisEntregadas": 4519933,
+    "dosisEntregadasModerna": 817900,
+    "dosisEntregadasPfizer": 2976528,
+    "dosisEntregadasAstrazeneca": 444200,
+    "dosisEntregadasJanssen": 101305,
+    "dosisPrimeraDosis": 1953544,
+    "dosisPautaCompletada": 1918126,
+    "porcentajeEntregadas": 0.9873292369599284,
+    "porcentajePoblacionAdministradas": 2.009751840122783,
+    "porcentajePoblacionPrimeraDosis": 0.8797750420625228,
+    "porcentajePoblacionCompletas": 0.863824609187824,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 1871140,
+          "personasINE": 1953592.488097,
+          "porcentaje": 0.957794428162796
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 161379,
+            "personasINE": 175401.09233199997,
+            "porcentaje": 0.8795356520520895
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 177027,
+            "personasINE": 201273.250933,
+            "porcentaje": 0.9622087215567132
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 213430,
+            "personasINE": 227918.732682,
+            "porcentaje": 0.9622087215567132
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 327761,
+            "personasINE": 340633.99411900004,
+            "porcentaje": 0.9622087215567132
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 328556,
+            "personasINE": 339226.913908,
+            "porcentaje": 0.9685434337002694
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 281995,
+            "personasINE": 289073.940621,
+            "porcentaje": 0.9755116611141331
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 215450,
+            "personasINE": 220309.74824,
+            "porcentaje": 0.9779412927533924
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 165542,
+            "personasINE": 165542,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 1862043,
+          "personasINE": 1953592.488097,
+          "porcentaje": 0.9531378787260907
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 167462,
+            "personasINE": 175401.09233199997,
+            "porcentaje": 0.8640293689989137
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 173906,
+            "personasINE": 201273.250933,
+            "porcentaje": 0.954981022494065
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 210097,
+            "personasINE": 227918.732682,
+            "porcentaje": 0.954981022494065
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 325299,
+            "personasINE": 340633.99411900004,
+            "porcentaje": 0.954981022494065
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 327534,
+            "personasINE": 339226.913908,
+            "porcentaje": 0.9655307010481746
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 278711,
+            "personasINE": 289073.940621,
+            "porcentaje": 0.9641512458759238
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 214973,
+            "personasINE": 220309.74824,
+            "porcentaje": 0.9757761593273382
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 164061,
+            "personasINE": 159754.81526200002,
+            "porcentaje": 1.026954960518328
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Ceuta",
+    "dosisAdministradas": 160367.5,
+    "dosisEntregadas": 174591,
+    "dosisEntregadasModerna": 24620,
+    "dosisEntregadasPfizer": 116496,
+    "dosisEntregadasAstrazeneca": 17540,
+    "dosisEntregadasJanssen": 3935,
+    "dosisPrimeraDosis": 68574,
+    "dosisPautaCompletada": 65735,
+    "porcentajeEntregadas": 0.9185324558539673,
+    "porcentajePoblacionAdministradas": 1.9045568988860122,
+    "porcentajePoblacionPrimeraDosis": 0.8143987078691718,
+    "porcentajePoblacionCompletas": 0.7806821690696183,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 65729,
+          "personasINE": 70789.104772,
+          "porcentaje": 0.9285185935279481
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 9955,
+            "personasINE": 9375.750324999997,
+            "porcentaje": 0.9139579973563151
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 9943,
+            "personasINE": 10879.055743,
+            "porcentaje": 0.9332274643422659
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 9677,
+            "personasINE": 11086.127671,
+            "porcentaje": 0.9332274643422659
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 11359,
+            "personasINE": 12171.737796,
+            "porcentaje": 0.9332274643422659
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 10710,
+            "personasINE": 11493.333695000001,
+            "porcentaje": 0.9318445182409714
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 7733,
+            "personasINE": 8564.867579,
+            "porcentaje": 0.9028744377741885
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 3939,
+            "personasINE": 4394.29954,
+            "porcentaje": 0.896388597123263
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 2413,
+            "personasINE": 2823.932423,
+            "porcentaje": 0.8544822037336691
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 64004,
+          "personasINE": 70789.104772,
+          "porcentaje": 0.9041504367959772
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 9511,
+            "personasINE": 9375.750324999997,
+            "porcentaje": 0.8520040910686599
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 9269,
+            "personasINE": 10879.055743,
+            "porcentaje": 0.9218075666801852
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 9409,
+            "personasINE": 11086.127671,
+            "porcentaje": 0.9218075666801852
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 11220,
+            "personasINE": 12171.737796,
+            "porcentaje": 0.9218075666801852
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 10626,
+            "personasINE": 11493.333695000001,
+            "porcentaje": 0.9245359337841795
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 7662,
+            "personasINE": 8564.867579,
+            "porcentaje": 0.894584759113647
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 3909,
+            "personasINE": 4394.29954,
+            "porcentaje": 0.8895615704886609
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 2398,
+            "personasINE": 2823.932423,
+            "porcentaje": 0.8491704618952916
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Melilla",
+    "dosisAdministradas": 151336.5,
+    "dosisEntregadas": 158440,
+    "dosisEntregadasModerna": 21500,
+    "dosisEntregadasPfizer": 108450,
+    "dosisEntregadasAstrazeneca": 12660,
+    "dosisEntregadasJanssen": 3830,
+    "dosisPrimeraDosis": 66602,
+    "dosisPautaCompletada": 63364,
+    "porcentajeEntregadas": 0.9551659934360011,
+    "porcentajePoblacionAdministradas": 1.737981763057559,
+    "porcentajePoblacionPrimeraDosis": 0.764872065781616,
+    "porcentajePoblacionCompletas": 0.7276861592172356,
+    "fechaUltRegistro": 1664323200000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 63119,
+          "personasINE": 68173.88238400001,
+          "porcentaje": 0.9258530949502392
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 9274,
+            "personasINE": 9535.462216,
+            "porcentaje": 0.8794264260833242
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 10455,
+            "personasINE": 11888.430561000001,
+            "porcentaje": 0.9916899594242659
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 9432,
+            "personasINE": 10735.925156000001,
+            "porcentaje": 0.9916899594242659
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 10723,
+            "personasINE": 10812.855266,
+            "porcentaje": 0.9916899594242659
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 10179,
+            "personasINE": 10653.649171000001,
+            "porcentaje": 0.9554472685010099
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 7520,
+            "personasINE": 8214.504217,
+            "porcentaje": 0.9154539094930749
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 3433,
+            "personasINE": 3892.621169,
+            "porcentaje": 0.8819250194032945
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 2103,
+            "personasINE": 2440.434628,
+            "porcentaje": 0.8617317488743649
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 61488,
+          "personasINE": 68173.88238400001,
+          "porcentaje": 0.9019289770481204
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 9043,
+            "personasINE": 9535.462216,
+            "porcentaje": 0.8215550362081135
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 9767,
+            "personasINE": 11888.430561000001,
+            "porcentaje": 0.9797597155777928
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 9175,
+            "personasINE": 10735.925156000001,
+            "porcentaje": 0.9797597155777928
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 10594,
+            "personasINE": 10812.855266,
+            "porcentaje": 0.9797597155777928
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 10068,
+            "personasINE": 10653.649171000001,
+            "porcentaje": 0.9450283032977864
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 7412,
+            "personasINE": 8214.504217,
+            "porcentaje": 0.9023064331333339
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 3372,
+            "personasINE": 3892.6211690000005,
+            "porcentaje": 0.8662543447212085
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 2057,
+            "personasINE": 2440.434628,
+            "porcentaje": 0.8428826473773507
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Fuerzas Armadas",
+    "dosisAdministradas": 207742,
+    "dosisEntregadas": 223296,
+    "dosisEntregadasModerna": 58510,
+    "dosisEntregadasPfizer": 58986,
+    "dosisEntregadasAstrazeneca": 103800,
+    "dosisEntregadasJanssen": 2000,
+    "dosisPrimeraDosis": 95153,
+    "dosisPautaCompletada": 94785,
+    "porcentajeEntregadas": 0.9303435798222986,
+    "porcentajePoblacionAdministradas": null,
+    "porcentajePoblacionPrimeraDosis": null,
+    "porcentajePoblacionCompletas": null,
+    "fechaUltRegistro": 1659312000000
+  },
+  {
+    "ccaa": "Sanidad Exterior",
+    "dosisAdministradas": 13468.5,
+    "dosisEntregadas": 13105,
+    "dosisEntregadasModerna": 8400,
+    "dosisEntregadasPfizer": 0,
+    "dosisEntregadasAstrazeneca": 0,
+    "dosisEntregadasJanssen": 4705,
+    "dosisPrimeraDosis": 8128,
+    "dosisPautaCompletada": 8140,
+    "porcentajeEntregadas": 1,
+    "porcentajePoblacionAdministradas": null,
+    "porcentajePoblacionPrimeraDosis": null,
+    "porcentajePoblacionCompletas": null,
+    "fechaUltRegistro": 1663718400000,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 8133,
+          "personasINE": "-",
+          "porcentaje": "-"
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 271,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 2130,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 2431,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 1972,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 924,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 320,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 52,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 33,
+            "personasINE": null,
+            "porcentaje": "-"
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 8151,
+          "personasINE": "-",
+          "porcentaje": "-"
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 257,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 2142,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 2451,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 1986,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 922,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 313,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 49,
+            "personasINE": null,
+            "porcentaje": "-"
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 31,
+            "personasINE": null,
+            "porcentaje": "-"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ccaa": "Totales",
+    "dosisAdministradas": 95783125.5,
+    "dosisEntregadas": 96874067,
+    "dosisEntregadasModerna": 17097890,
+    "dosisEntregadasPfizer": 63857457,
+    "dosisEntregadasAstrazeneca": 8962110,
+    "dosisEntregadasJanssen": 2023960,
+    "dosisPrimeraDosis": 41307428,
+    "dosisPautaCompletada": 40652734,
+    "porcentajeEntregadas": 0.9887385599285308,
+    "porcentajePoblacionAdministradas": 2.04054378994461,
+    "porcentajePoblacionPrimeraDosis": 0.8800048572645931,
+    "porcentajePoblacionCompletas": 0.86605739241585,
+    "fechaUltRegistro": null,
+    "etarios": {
+      "unaDosis": {
+        "etarioTotal": {
+          "vacunados": 39284977,
+          "personasINE": 42350585.20510001,
+          "porcentaje": 0.9276135573982379
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 3687810,
+            "personasINE": 4034579.3354610004,
+            "porcentaje": 0.8638541165070424
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 4270052,
+            "personasINE": 4943024.427857999,
+            "porcentaje": 0.923293559402162
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 5142335,
+            "personasINE": 5786100.760528,
+            "porcentaje": 0.923293559402162
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 7143766,
+            "personasINE": 7737263.979861,
+            "porcentaje": 0.923293559402162
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 6776066,
+            "personasINE": 7228950.574636002,
+            "porcentaje": 0.9373512697368517
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 5341211,
+            "personasINE": 5649166.480849,
+            "porcentaje": 0.9454865630366911
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 3970790,
+            "personasINE": 4088212.020297,
+            "porcentaje": 0.9712779034663497
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 2952947,
+            "personasINE": 2952947,
+            "porcentaje": 1
+          }
+        ]
+      },
+      "pautaCompleta": {
+        "etarioTotal": {
+          "vacunados": 39208028,
+          "personasINE": 42350585.20510001,
+          "porcentaje": 0.9257966049375494
+        },
+        "etarioRangos": [
+          {
+            "rango": { "min": 12, "max": 19 },
+            "vacunados": 3865253,
+            "personasINE": 4034579.335461,
+            "porcentaje": 0.8467117775935528
+          },
+          {
+            "rango": { "min": 20, "max": 29 },
+            "vacunados": 4185317,
+            "personasINE": 4943024.427857999,
+            "porcentaje": 0.9179962088003623
+          },
+          {
+            "rango": { "min": 30, "max": 39 },
+            "vacunados": 5069211,
+            "personasINE": 5786100.760528,
+            "porcentaje": 0.9179962088003623
+          },
+          {
+            "rango": { "min": 40, "max": 49 },
+            "vacunados": 7102779,
+            "personasINE": 7737263.979861,
+            "porcentaje": 0.9179962088003623
+          },
+          {
+            "rango": { "min": 50, "max": 59 },
+            "vacunados": 6776691,
+            "personasINE": 7228950.574636002,
+            "porcentaje": 0.9374377276526372
+          },
+          {
+            "rango": { "min": 60, "max": 69 },
+            "vacunados": 5323250,
+            "personasINE": 5649166.480849,
+            "porcentaje": 0.9423071559399293
+          },
+          {
+            "rango": { "min": 70, "max": 79 },
+            "vacunados": 3956564,
+            "personasINE": 4088212.020297,
+            "porcentaje": 0.9677981426493051
+          },
+          {
+            "rango": { "min": 80, "max": null },
+            "vacunados": 2928963,
+            "personasINE": 2928963,
+            "porcentaje": 1
+          }
+        ]
+      }
+    }
+  }
+]
